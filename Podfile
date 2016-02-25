@@ -1,0 +1,7 @@
+pod 'BmobSDK'
+pod 'Toast', '~> 3.0'
+pod 'FMDB', '~> 2.5'
+pod 'SDWebImage', '~> 3.7.3'
+pod 'MJRefresh', '~> 3.0.8'
+pod 'IQKeyboardManager', '~> 3.3.5'
+pod 'Masonry', '~> 0.6.4'
